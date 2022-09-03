@@ -1,6 +1,6 @@
 ## Code Challenges 
 
-view some of the code challenges that I did. Either for study or for a company interview.
+This repository is for store and review some of the code challenges that I did. Either for study or for a company interview.
 
 ## Licenses
 
