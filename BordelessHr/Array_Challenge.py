@@ -64,7 +64,6 @@ def array_challenge(arr):
     print("Element Index Position =", index_position)
 
     for i in range(n):
-
         # This for will set and store the number jumps needed to reach the largest element
         # base on the length of the array.
 
@@ -78,12 +77,12 @@ def array_challenge(arr):
     for step in range(2, n):
         # This for will set the least number jumps needed to reach the largest element.
         for i in tuple(jump_set):
-
             jump_set.add(output[i][0])
             jump_set.add(output[i][1])
 
         if index_position in jump_set:
             return step
+
     return -1
 
 
