@@ -8,4 +8,4 @@ All the codes here are under MIT licenses agreement. Feel free to explore copy, 
 
 ## Contact
 
-Feel free to add and ask constructive conversations, and please reach out for any doubt or issue that you might cross to.
+Feel free to send constructive critics, and please reach out for conversation, doubt or issue that you might have.
